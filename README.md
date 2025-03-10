@@ -28,7 +28,7 @@ Dataset include these following main fields:
 - TONG_LL_GPRS_220601: Customer's data usage behavior (Unit GB) - like the type of customer's unit of measure when watching youtube/going to facebook.
 - TONG_TIEN_NAP_THE_220601: Amount of money deposited into the account by the customer to spend
 - TONG_TIEN_NAP_TOPUP_220601: Amount deposited into account by modern methods (Bank, digital payment)
-- TUOI_KHACH_HANG_CUT_LEVEL_220601: Age of customer 
+- TUOI_KHACH_HANG_CUT_LEVEL_220601: Age of customer  
 - user_id: subscriber ID (This is the encoding of the phone number)
 
 ![image](https://github.com/thuhuongphan11/Python_Cohort_Analysis/assets/141643891/1789ee39-277f-42bb-9fe3-0cb16784541c)
