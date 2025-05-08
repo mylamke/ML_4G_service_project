@@ -4,7 +4,7 @@
 ## I. Introduction  
   
 ### 1. Business question  
-
+ 
 A telecommunications corporation wants to build a model to predict which customers will use its 4G service in the next month.
 
 ### 2. Dataset
