@@ -24,7 +24,7 @@ Dataset include these following main fields:
 - thuc_4g_220601: This field is the field that needs to be used to check whether the customer is actually 4G or not ==> I need to forecast that the group of customers with a value of 0 has the potential to convert to 1 in the next month.
 - TONG_CUOC_GOC_DATA_4_HUONG_22060: Spending of customers for Data services (VND)
 - TONG_CUOC_GOC_FN_220601: Customer's spending for all services provided on customer's phone number (Voice, SMS, Data, Vas) (VND)
-- TONG_CUOC_GOC_THOAI_220601: Spending of customers on voice services (VND)
+- TONG_CUOC_GOC_THOAI_220601: Spending of customers on voice services (VND) 
 - TONG_LL_GPRS_220601: Customer's data usage behavior (Unit GB) - like the type of customer's unit of measure when watching youtube/going to facebook.
 - TONG_TIEN_NAP_THE_220601: Amount of money deposited into the account by the customer to spend
 - TONG_TIEN_NAP_TOPUP_220601: Amount deposited into account by modern methods (Bank, digital payment)
